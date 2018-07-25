@@ -1,3 +1,3 @@
 class Lecon < ApplicationRecord
-  belongs_to :cours
+  belongs_to :cour
 end
