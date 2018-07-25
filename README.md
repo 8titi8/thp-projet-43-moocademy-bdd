@@ -9,3 +9,4 @@
 		<li><strong>Mathilde Ray</strong> : 06 25 98 18 85</li>
 		</ul></p>
 
+Tu dois créer une plateforme d'apprentissage en ligne. Il y a plein de cours. Chaque cours a un titre et une description. Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body.
